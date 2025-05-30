@@ -1,6 +1,5 @@
 # Hi there 👋 My name is Lessa Aquino-Calista
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/lessaaquinocalista)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lessa.aquinocalista@gmail.com) 
 
 # About Me
 I'm a Data Analyst with a passion for transforming raw data into actionable business insights.<br/>
