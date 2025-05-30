@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Lessa Aquino-Calista
+# Hi there 👋 My name is Lessa!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/lessaaquinocalista)<br/>
 I'm a Data Analyst with a passion for transforming raw data into actionable business insights.<br/>
 I have over a decade of experience in sales operatons and business reporting in various industries.
