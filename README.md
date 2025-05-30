@@ -18,6 +18,9 @@ I have over a decade of experience in sales operatons and business reporting in 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 📚 Currently Learning
+* Agile Fundamentals
+  
 ## 📁 Featured Projects
 * 🛒 **Australian Retail Sales Business Review** – [View Project](link-to-your-repo)
 * 🛠️  More projects coming soon!
@@ -27,9 +30,6 @@ I have over a decade of experience in sales operatons and business reporting in 
 * Microsoft Certified: Power BI Data Analyst Associate
 * Microsoft Certified: Azure Data Fundamentals
 * Microsoft Certified: Azure Fundamentals
-
-## 📚 Currently Learning
-* Agile Fundamentals
 
 ## 📈 Github Stats
 [![Lessa's github stats](https://github-readme-stats.vercel.app/api?username=lessaaquinocalista&count_private=true&show_icons=true&theme=transparent&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)<br/>
