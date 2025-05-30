@@ -25,11 +25,5 @@ I have over a decade of experience in sales operatons and business reporting in 
 * 🛒 **Australian Retail Sales Business Review** – [View Project](link-to-your-repo)
 * 🛠️  More projects coming soon!
 
-## 🏅 Qualifications
-* Bachelor's Degree in Commerce
-* Microsoft Certified: Power BI Data Analyst Associate
-* Microsoft Certified: Azure Data Fundamentals
-* Microsoft Certified: Azure Fundamentals
-
 ## 📈 Github Stats
 [![Lessa's github stats](https://github-readme-stats.vercel.app/api?username=lessaaquinocalista&count_private=true&show_icons=true&theme=transparent&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)<br/>
